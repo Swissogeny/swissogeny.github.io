@@ -14,3 +14,12 @@ h1 span {
   box-shadow: 10px 0px 0px 10px #CC0000, -10px 0 0px 10px #CC0000;
   margin: 20px;
 }
+
+a {
+  color: #CC0000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
